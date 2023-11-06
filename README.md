@@ -1,16 +1,21 @@
-### Hi there 👋
+### bem vindos ao meu prefil🫀
 
-<!--
-**ketlyncamile1/ketlyncamile1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e ketlyn camile matos
 
-Here are some ideas to get you started:
+-estou estudando a [alura] (https://ww.alura.com.br
+-estou  me desenvolendo na linguagem javascript
+- utiliso eses espaço para minha organizaçao e compartilhameto dos meu projetos desenvoidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+** vovê pode entrar em contato comigo 📫
+
+ketlyncamile@gmail.com
+Play
+￼Mute
+78%
+Current TimeÂ10:19
+/
+DurationÂ12:00
+
+@ketlyncamile
+
+![] (https://media.tenor.com/02s_b-JjOAMAAAAC/movie-spongebob.gif)
