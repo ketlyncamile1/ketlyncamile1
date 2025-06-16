@@ -88,7 +88,7 @@
         }
 
         .logo {
-            color: white;
+            color: rgb(180, 112, 112);
             font-size: 1.5rem;
             font-weight: 700;
             letter-spacing: 1px;
@@ -104,7 +104,7 @@
         }
 
         ul li a {
-            color: white;
+            color: rgb(218, 140, 140);
             text-decoration: none;
             font-weight: 500;
             transition: var(--transition);
@@ -137,7 +137,7 @@
             display: flex;
             align-items: center;
             background: linear-gradient(135deg, #1a2a3a 0%, #2c3e50 100%);
-            color: white;
+            color: rgb(204, 137, 137);
             padding-top: 70px;
         }
 
